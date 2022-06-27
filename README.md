@@ -1,4 +1,4 @@
-### Olá eu sou o Matheus Gottfried ou apenas Kenttu! 👾
+### Olá, eu sou o Matheus Gottfried ou apenas Kenttu! 👾
 
 
 
