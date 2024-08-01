@@ -29,6 +29,5 @@ No mais, sou apaixonado por tecnologia e um bom café! 💬
 
   ##
   
-  <div> 
-  ![Snake animation](https://github.com/Kenttuz/Kenttuz/blob/output/github-contribution-grid-snake.svg)
-</div>
+  ![snake gif](https://github.com/Kenttuz/Kenttuz/blob/output/github-contribution-grid-snake.svg)
+
