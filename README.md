@@ -16,7 +16,6 @@
   <img align="center" alt="Kenttu-Wp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" />
   <img align="center" alt="Kenttu-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Kenttu-git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-  <img align="right" alt="Kenttu-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/775508941614088192/990734254650572880/teta-01.jpeg">
 </div>
 
   ##
